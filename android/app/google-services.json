@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513230387484",
+    "project_id": "nerdy-health",
+    "storage_bucket": "nerdy-health.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513230387484:android:bfe9d442f7e942dd28a2d9",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBRQ1x044DxgZp0cO4mo4nGMfA7b7YOpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
